@@ -1,4 +1,4 @@
-/* Oracle Querys parte 1 */
+/* Oracle Querys parte 2 */
 
  /* Se definen llaves primarias */
 ALTER TABLE PERSONAS
