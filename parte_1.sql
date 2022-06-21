@@ -21,7 +21,7 @@ create table CIUDADES(
 create table DIVISIONES(
     IDDiv INT,
     NomDiv VARCHAR(30),
-    Extensión INT,
+    Extension INT,
     IDPais INT
 );
 
